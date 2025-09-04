@@ -2,7 +2,7 @@
 
 *Empowering Innovation, Accelerating Future Success*
 
-![Last Commit](https://img.shields.io/github/last-commit/your-username/lynq-website?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/kaloAbhi21/lynq-website?style=flat-square)
 ![Typescript](https://img.shields.io/badge/typescript-95.7%25-blue?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-5-brightgreen?style=flat-square)
 
